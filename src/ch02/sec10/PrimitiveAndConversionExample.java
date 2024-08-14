@@ -23,7 +23,7 @@ public class PrimitiveAndConversionExample {
 		
 		
 		int value1 = Integer.parseInt("10");
-		double value2 = Double.parseDouble("3.04");
+		double value2 = Double.parseDouble("3.14");
 		boolean value3 = Boolean.parseBoolean("true");
 		
 		System.out.println("value1 : " + value1);
