@@ -16,8 +16,10 @@ public class InfinityAndNanCheckExample {
 		
 		if(Double.isInfinite(z1)) {
 			System.out.print("z1 정상적인 값이 아닙니다.");
+			System.out.println();			
 		} else {
 			System.out.println(z1 + 10);			
+			
 		}
 		
 		if(Double.isNaN(z2)) {
